@@ -1,2 +1,3 @@
 hello
-new line from fix
+new line from dev
+>>>>>>> dev
